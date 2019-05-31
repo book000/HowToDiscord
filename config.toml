@@ -1,0 +1,15 @@
+baseURL = "https://howtodiscord.tomacheese.com/"
+title = "How To Discord"
+theme = "theer"
+languageCode = "ja"
+copyright = "&copy;Tomachi 2019"
+
+[params]
+description = "Describe what your web page is about"
+twitter = "book000"
+# You can use favicon by addin them manually.
+useIcon = true
+useTwitterCard = true
+
+shareTo = ["Twitter", "Hatena", "Facebook", "Pocket"]
+showFooterCredits = true
