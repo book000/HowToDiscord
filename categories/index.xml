@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy;Tomachi 2019</copyright>
+    <lastBuildDate>Sat, 01 Jun 2019 02:31:52 +0900</lastBuildDate>
     
 	<atom:link href="https://howtodiscord.tomacheese.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Account</title>
+      <link>https://howtodiscord.tomacheese.com/categories/account/</link>
+      <pubDate>Sat, 01 Jun 2019 02:31:52 +0900</pubDate>
+      
+      <guid>https://howtodiscord.tomacheese.com/categories/account/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
