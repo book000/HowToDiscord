@@ -3,7 +3,7 @@ title: "About"
 date: 2019-06-01T02:01:40+09:00
 comments: false
 menu: "main"
-weight: 1
+weight: 2
 ---
 
 # 目的
