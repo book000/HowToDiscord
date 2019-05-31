@@ -3,6 +3,7 @@ title = "How To Discord"
 theme = "theer"
 languageCode = "ja"
 copyright = "&copy;Tomachi 2019"
+hasCJKLanguage = true
 
 [params]
 description = "Describe what your web page is about"
