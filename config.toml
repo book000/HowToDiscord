@@ -4,6 +4,9 @@ theme = "theer"
 languageCode = "ja"
 copyright = "&copy;Tomachi 2019"
 hasCJKLanguage = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+googleAnalytics = "UA-117159378-2"
 
 [params]
 description = "Describe what your web page is about"
